@@ -5,8 +5,8 @@
 
 - 🔭 I just Completed my first Blog Site: [TechBlog!]
 - 🌱 I’m currently learning Linux
-- 👯 I’m looking to work with People or Company
-- ⚡ Fun fact: I love to learn new things(Technologies)
+- 👯 I’m looking forward to working with Company
+- ⚡ Fun fact: I love to learn new Technologies
 
 ### Connect with me:
 
@@ -36,7 +36,6 @@
 
 ---
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
