@@ -6,7 +6,7 @@
 - 🔭 I just Completed my first Blog Site: [TechBlog!]
 - 🌱 I’m currently learning Linux
 - 👯 I’m looking forward to working with Company
--   How to Reach me : pcsatyam.email@gmail.com
+- 📪️ How to Reach me : pcsatyam.email@gmail.com
 - ⚡ Fun fact: I love to learn new Technologies
 
 ### Connect with me:
