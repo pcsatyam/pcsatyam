@@ -1,7 +1,7 @@
 ### Hi there, I'm Satyam 👋
 
 
-## I'm a Developer and Learner!!
+## I'm a Learner!!
 
 - 🔭 I just Completed my first Blog Site: [TechBlog!]
 - 🌱 I’m currently learning Linux
