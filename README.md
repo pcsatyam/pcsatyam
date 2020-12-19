@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="Pcsatyam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="satyam-chourey-1273471b9 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pcsatyam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Pcsatyam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="satyam.chourey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
@@ -40,6 +40,6 @@
 
 [twitter]: https://twitter.com/pcsatyam
 [instagram]: https://instagram.com/pcsatyam
-[linkedin]: https://www.linkedin.com/in/satyam-chourey-1273471b9/
+[linkedin]: https://www.linkedin.com/in/pcsatyam/
 [facebook]: https://www.facebook.com/satyam.chourey
 
